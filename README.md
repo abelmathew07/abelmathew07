@@ -3,11 +3,11 @@
 <b>ABEL MATHEW SIMON</b>
   </h1>
   </div>
- <img src="" width="500">
+ <img src="https://user-images.githubusercontent.com/88553295/160114019-821c45d1-5ec8-495d-bd95-22ae9d284c6f.png" width="500">
   <b>Hey! I'm Abel Mathew Simon, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.</b>
   <br>
   
-  <p>![Abel Mathew Simon](https://user-images.githubusercontent.com/88553295/160114019-821c45d1-5ec8-495d-bd95-22ae9d284c6f.png)
+
 
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
