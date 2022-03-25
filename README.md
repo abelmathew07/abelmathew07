@@ -1,9 +1,9 @@
 <div>
 <h1 align="center">
-<b>ABEL MATHEW SIMON</b>
+   <img src="https://user-images.githubusercontent.com/88553295/160114019-821c45d1-5ec8-495d-bd95-22ae9d284c6f.png" width="500">
   </h1>
   </div>
- <img src="https://user-images.githubusercontent.com/88553295/160114019-821c45d1-5ec8-495d-bd95-22ae9d284c6f.png" width="500">
+
   <b>Hey! I'm Abel Mathew Simon, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.</b>
   <br>
   
