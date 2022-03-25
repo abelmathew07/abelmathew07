@@ -1,16 +1,5 @@
-<div text-align: center;
-    font-size: 50px;
-            background: linear-gradient(to left,
-                    rgb(233, 17, 233),
-                    indigo,
-                    blue,
-                    rgb(0, 189, 148),
-                    yellow,
-                    rgb(255, 17, 0),
-                    red);
-            -webkit-background-clip: text;
-            color: transparent;>
-<h1>
+<div>
+<h1 align="center">
 <b>ABEL MATHEW SIMON</b>
   </h1>
   </div>
