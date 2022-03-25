@@ -1,8 +1,18 @@
-<h1 align="center" color="red">
+<div background: linear-gradient(to left,
+violet,
+indigo,
+blue,
+green,
+yellow,
+orange,
+red);
+-webkit-background-clip: text;
+color: transparent;>
+<h1 align="center">
     <b>ABEL MATHEW SIMON</b>
   </h1>
-  
-  Hey! I'm Abel Mathew Simon, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.
+  </div>
+  <b>Hey! I'm Abel Mathew Simon, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.</b>
   <br>
   
   <p>
