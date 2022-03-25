@@ -1,13 +1,4 @@
-<h1 align="center" background: "linear-gradient(to left,
-violet,
-indigo,
-blue,
-green,
-yellow,
-orange,
-red);
--webkit-background-clip: text;"
-color: "transparent;">
+<h1 align="center" color="red">
     <b>ABEL MATHEW SIMON</b>
   </h1>
   
