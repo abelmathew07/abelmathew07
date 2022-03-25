@@ -1,8 +1,6 @@
 <div style="color: red;">
 <h1 align="center">
-    
-
-    <b>ABEL MATHEW SIMON</b>
+<b>ABEL MATHEW SIMON</b>
   </h1>
   </div>
   <b>Hey! I'm Abel Mathew Simon, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.</b>
