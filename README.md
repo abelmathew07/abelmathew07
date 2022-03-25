@@ -1,6 +1,6 @@
 <div style="color: red;">
 <h1 align="center">
-    <a href="https://abelmathew07.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+    <a href="https://abelmathew07.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a>
 
     <b>ABEL MATHEW SIMON</b>
   </h1>
