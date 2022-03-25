@@ -16,7 +16,7 @@
   </p>
   
 
-<div align="center">
+<div align="center"box-sizing="60px">
 <a href="https://www.linkedin.com/in/abel-mathew-simon-b64a1a205/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BySTb6DYYTDO7Z2IRUPgSgA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mistake_manager_07_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://m.facebook.com/abel.mathewsimon" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
