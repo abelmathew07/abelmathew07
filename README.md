@@ -14,9 +14,6 @@
 
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88553295/160112195-ac5be981-6899-40c9-9b7e-9044c6a90b9c.mp4" width="100">
-
 
 
 
