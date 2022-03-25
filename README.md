@@ -1,4 +1,4 @@
-<div style="color-scheme: red,violet;">
+<div style="color-scheme: red">
 <h1 align="center">
 <b>ABEL MATHEW SIMON</b>
   </h1>
