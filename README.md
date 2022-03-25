@@ -1,5 +1,5 @@
-<div color="red">
-<h1 align="center">
+<div>
+<h1 align="center" color="red">
 <b>ABEL MATHEW SIMON</b>
   </h1>
   </div>
