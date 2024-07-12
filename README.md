@@ -4,7 +4,7 @@
   </h1>
   </div>
 
-  <b>Hey! I'm Abel Mathew Simon, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.</b>
+  <b>Hey! I'm Abel Mathew Simon, a B-TECH graduate from kerala, India. I'm learning programming through small projects  on the side.</b>
   <br>
 
   
