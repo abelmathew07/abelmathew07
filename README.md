@@ -24,11 +24,7 @@
   </p>
   
 
-  <div align="center">
-    <a href="https://open.spotify.com/user/ve7z9d2i1nc30phzyats60uim?si=df15196d58034285">
-      <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-    </a>
-  </div>
+  
   
 <div align="center">
 <a href="https://www.linkedin.com/in/abel-mathew-simon-b64a1a205/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BySTb6DYYTDO7Z2IRUPgSgA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
